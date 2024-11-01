@@ -1,6 +1,6 @@
 title: Oleksandr Yanchenkov Portfolio
 author:
-  name: OzoneY1911
+  name: Oleksandr Yanchenkov
   email: oleksandr.yanchenkov@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -53,4 +53,5 @@ minima:
 
   # Generate social links in footer.
   social_links:
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/oleksandr-yanchenkov" }
+    - { platform: github, user_url: "https://github.com/OzoneY1911" }
