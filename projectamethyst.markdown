@@ -47,10 +47,10 @@ permalink: /games/projectamethyst/
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_gameplayshot1.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_gameplayshot1.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_gameplayshot2.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_gameplayshot2.png" style="width:100%">
   </div>
 </div>
 
@@ -95,13 +95,13 @@ permalink: /games/projectamethyst/
 <div class="row">
   <div class="column">
     <figure>
-      <img src="/assets/images/projectamethyst/pa_minigame1.png" alt="Minigame Device" style="width:100%">
+      <img src="/assets/images/projectamethyst/pa_minigame1.png" style="width:100%">
       <figcaption style="text-align: center;">Minigame Device</figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-      <img src="/assets/images/projectamethyst/pa_minigame2.png" alt="Minigame Device" style="width:100%">
+      <img src="/assets/images/projectamethyst/pa_minigame2.png" style="width:100%">
       <figcaption style="text-align: center;">Minigame Gameplay</figcaption>
     </figure>
   </div>
@@ -113,12 +113,19 @@ permalink: /games/projectamethyst/
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_shop.png" alt="Minigame Device" style="width:100%">
-    <img src="/assets/images/projectamethyst/pa_shopred.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_shop.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_shopblue.png" alt="Minigame Device" style="width:100%">
-    <img src="/assets/images/projectamethyst/pa_shopgreen.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_shopred.png" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/projectamethyst/pa_shopblue.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/projectamethyst/pa_shopgreen.png" style="width:100%">
   </div>
 </div>
 
