@@ -4,10 +4,13 @@ title: Project Amethyst
 permalink: /games/projectamethyst/
 ---
 
+<html lang="en">
+
 <head>
   <style>
     video {
 	border-radius: 10px;
+	overflow: hidden;
     }
   </style>
 </head>
@@ -45,3 +48,5 @@ permalink: /games/projectamethyst/
   </video>
 
 </body>
+
+</html>
