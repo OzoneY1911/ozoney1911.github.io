@@ -8,7 +8,7 @@ permalink: /games/projectamethyst/
 
 <p>Testing Paragraph :)</p>
 
-<video width="600" height="480" controls>
+<video width="600" height="480" loop autoplay>
   <source src="assets/videos/projectamethyst/pa_menu.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
