@@ -16,6 +16,7 @@ permalink: /games/projectamethyst/
   float: left;
   width: 50%;
   padding: 5px;
+  row-gap: 5px;
 }
 
 /* Clearfix (clear floats) */
