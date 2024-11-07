@@ -4,6 +4,8 @@ title: Project Amethyst
 permalink: /games/projectamethyst/
 ---
 
+<body>
+
 <h3 style="text-align:center;">About This Project</h3>
 
 <p>Testing Paragraph :)</p>
@@ -13,22 +15,24 @@ permalink: /games/projectamethyst/
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="480" style="display: block; margin: 0 auto; border-radius:10px;" loop autoplay muted>
+<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_tutorial.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="480" style="display: block; margin: 0 auto; border-radius:10px;" loop autoplay muted>
+<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_pistol1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="480" style="display: block; margin: 0 auto; border-radius:10px;" loop autoplay muted>
+<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_pistol2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="480" style="display: block; margin: 0 auto; border-radius:10px;" loop autoplay muted>
+<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_m4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+</body>
