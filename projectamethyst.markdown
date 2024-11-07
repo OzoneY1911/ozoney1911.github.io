@@ -25,6 +25,13 @@ permalink: /games/projectamethyst/
   display: table;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
 
 
@@ -119,4 +126,4 @@ permalink: /games/projectamethyst/
 
 <h3 style="text-align: center;">DEATH SCREEN</h3>
 
-<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" style="width: 50%; text-align: center;">
+<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" class="center">
