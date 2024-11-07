@@ -16,7 +16,6 @@ permalink: /games/projectamethyst/
   float: left;
   width: 50%;
   padding: 5px;
-  row-gap: 5px;
 }
 
 /* Clearfix (clear floats) */
@@ -81,13 +80,10 @@ permalink: /games/projectamethyst/
 
 <h3 style="text-align: center;">TUTORIAL LEVEL</h3>
 
-<figure>
-  <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
-    <source src="/assets/videos/projectamethyst/pa_tutorial.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption style="text-align: center;">Tutorial Level</figcaption>
-</figure>
+<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
+  <source src="/assets/videos/projectamethyst/pa_tutorial.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <div class="row">
   <div class="column">
@@ -123,4 +119,4 @@ permalink: /games/projectamethyst/
 
 <h3 style="text-align: center;">DEATH SCREEN</h3>
 
-<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" style="width:100%">
+<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" style="width: 640px; height: 480px">
