@@ -103,3 +103,18 @@ permalink: /games/projectamethyst/
   </div>
 </div>
 
+
+
+<h3 style="text-align: center;">SHOPS</h3>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/projectamethyst/pa_shop.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_shopred.png" alt="Minigame Device" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/projectamethyst/pa_shopblue.png" alt="Minigame Device" style="width:100%">
+    <img src="/assets/images/projectamethyst/pa_shopgreen.png" alt="Minigame Device" style="width:100%">
+  </div>
+</div>
+
