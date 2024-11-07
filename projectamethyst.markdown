@@ -5,13 +5,14 @@ permalink: /games/projectamethyst/
 ---
 
 <style>
+
 * {
   box-sizing: border-box;
 }
 
 .column {
   float: left;
-  width: 50%;
+  width: 33.33%;
   padding: 5px;
 }
 
@@ -21,6 +22,7 @@ permalink: /games/projectamethyst/
   clear: both;
   display: table;
 }
+
 </style>
 
 <h3 style="text-align: center;">About This Project</h3>
