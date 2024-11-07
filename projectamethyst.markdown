@@ -12,7 +12,7 @@ permalink: /games/projectamethyst/
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
 
