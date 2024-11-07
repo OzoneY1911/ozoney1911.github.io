@@ -118,3 +118,8 @@ permalink: /games/projectamethyst/
   </div>
 </div>
 
+
+
+<h3 style="text-align: center;">DEATH SCREEN</h3>
+
+<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" style="width:100%">
