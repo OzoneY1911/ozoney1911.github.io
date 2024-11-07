@@ -69,6 +69,8 @@ permalink: /games/projectamethyst/
 
 
 
+<h3 style="text-align: center;">MAIN MENU</h3>
+
 <figure>
   <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
     <source src="/assets/videos/projectamethyst/pa_menu.mp4" type="video/mp4">
@@ -76,6 +78,10 @@ permalink: /games/projectamethyst/
   </video>
   <figcaption style="text-align: center;">Main Menu</figcaption>
 </figure>
+
+
+
+<h3 style="text-align: center;">TUTORIAL LEVEL</h3>
 
 <figure>
   <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
