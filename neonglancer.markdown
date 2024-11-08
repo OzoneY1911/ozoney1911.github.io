@@ -119,6 +119,8 @@ GAMEPLAY
 MAIN MENU
 </div>
 
+<br>
+
 <img src="/assets/images/neonglancer/ng_menu.png" class="center">
 
 
