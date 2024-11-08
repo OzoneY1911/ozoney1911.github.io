@@ -83,9 +83,17 @@ GAMEPLAY
 <div class="row">
   <div class="column">
     <img src="/assets/images/projectamethyst/pa_gameplayshot1.png" style="width:100%">
+    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
+      <source src="/assets/videos/projectamethyst/pa_pistol1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
   <div class="column">
     <img src="/assets/images/projectamethyst/pa_gameplayshot2.png" style="width:100%">
+    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
+      <source src="/assets/videos/projectamethyst/pa_pistol2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
 </div>
 
