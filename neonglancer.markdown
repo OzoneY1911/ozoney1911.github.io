@@ -33,7 +33,7 @@ permalink: /games/neonglancer/
 }
 
 .textstyle {
-    background-color: #eee6fc;
+    background-color: #adffff;
     font-weight: bold;
     border-radius: 20px;
     width: auto;
