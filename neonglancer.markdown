@@ -86,10 +86,10 @@ GAMEPLAY
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_gameplayshot1.png" style="width:100%">
+    <img src="/assets/images/neonglancer/ng_gameplayshot1.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/projectamethyst/pa_gameplayshot2.png" style="width:100%">
+    <img src="/assets/images/neonglancer/ng_gameplayshot2.png" style="width:100%">
   </div>
 </div>
 
