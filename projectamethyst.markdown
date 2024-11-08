@@ -108,7 +108,7 @@ GAMEPLAY
   </div>
 </div>
 
-<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
+<video width="640" height="480" style="display: block; margin: 0 auto; padding-top: 0px" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_m4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
