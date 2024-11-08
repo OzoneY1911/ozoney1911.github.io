@@ -16,7 +16,6 @@ permalink: /games/projectamethyst/
   float: left;
   width: 50%;
   padding: 5px;
-  line-height: 0;
 }
 
 /* Clearfix (clear floats) */
@@ -96,13 +95,13 @@ GAMEPLAY
 
 <div class="row">
   <div class="column">
-    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
+    <video width="600" height="450" style="display: block;" loop autoplay muted>
       <source src="/assets/videos/projectamethyst/pa_pistol1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div class="column">
-    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
+    <video width="600" height="450" style="display: block;" loop autoplay muted>
       <source src="/assets/videos/projectamethyst/pa_pistol2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
