@@ -96,20 +96,20 @@ GAMEPLAY
 <div class="row">
   <div class="column">
     <video width="600" height="450" style="display: block;" loop autoplay muted>
-      <source src="/assets/videos/projectamethyst/pa_pistol1.mp4" type="video/mp4">
+      <source src="/assets/videos/neonglancer/ng_gameplay1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div class="column">
     <video width="600" height="450" style="display: block;" loop autoplay muted>
-      <source src="/assets/videos/projectamethyst/pa_pistol2.mp4" type="video/mp4">
+      <source src="/assets/videos/neonglancer/ng_gameplay2.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
 
 <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
-  <source src="/assets/videos/projectamethyst/pa_m4.mp4" type="video/mp4">
+  <source src="/assets/videos/neonglancer/ng_gameplay3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -139,3 +139,19 @@ SHOPS
     <img src="/assets/images/neonglancer/ng_shopconsumables.png" style="width:100%">
   </div>
 </div>
+
+<div class="row">
+  <div class="column">
+    <video width="600" height="450" style="display: block;" loop autoplay muted>
+      <source src="/assets/videos/neonglancer/ng_gameplayshop1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="column">
+    <video width="600" height="450" style="display: block;" loop autoplay muted>
+      <source src="/assets/videos/neonglancer/ng_gameplayshop2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
