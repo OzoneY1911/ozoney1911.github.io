@@ -129,36 +129,6 @@ MAIN MENU
 <br>
 
 <div class="textstyle">
-TUTORIAL LEVEL
-</div>
-
-<br>
-
-<video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
-  <source src="/assets/videos/projectamethyst/pa_tutorial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<div class="row">
-  <div class="column">
-    <figure>
-      <img src="/assets/images/projectamethyst/pa_minigame1.png" style="width:100%">
-      <figcaption style="text-align: center;">Minigame Device</figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/assets/images/projectamethyst/pa_minigame2.png" style="width:100%">
-      <figcaption style="text-align: center;">Minigame Gameplay</figcaption>
-    </figure>
-  </div>
-</div>
-
-
-
-<br>
-
-<div class="textstyle">
 SHOPS
 </div>
 
@@ -172,24 +142,3 @@ SHOPS
     <img src="/assets/images/projectamethyst/pa_shopred.png" style="width:100%">
   </div>
 </div>
-
-<div class="row">
-  <div class="column">
-    <img src="/assets/images/projectamethyst/pa_shopblue.png" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/images/projectamethyst/pa_shopgreen.png" style="width:100%">
-  </div>
-</div>
-
-
-
-<br>
-
-<div class="textstyle">
-DEATH SCREEN
-</div>
-
-<br>
-
-<img src="/assets/images/projectamethyst/pa_deathscreen.png" class="center">
