@@ -76,24 +76,20 @@ This game was made for university Video Game Design course by me and my groupmat
 
 
 
+<br>
+
 <div class="textstyle">
 GAMEPLAY
 </div>
 
+<br>
+
 <div class="row">
   <div class="column">
     <img src="/assets/images/projectamethyst/pa_gameplayshot1.png" style="width:100%">
-    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
-      <source src="/assets/videos/projectamethyst/pa_pistol1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
   </div>
   <div class="column">
     <img src="/assets/images/projectamethyst/pa_gameplayshot2.png" style="width:100%">
-    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
-      <source src="/assets/videos/projectamethyst/pa_pistol2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
   </div>
 </div>
 
@@ -130,9 +126,13 @@ MAIN MENU
 
 
 
+<br>
+
 <div class="textstyle">
 TUTORIAL LEVEL
 </div>
+
+<br>
 
 <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
   <source src="/assets/videos/projectamethyst/pa_tutorial.mp4" type="video/mp4">
@@ -156,9 +156,13 @@ TUTORIAL LEVEL
 
 
 
+<br>
+
 <div class="textstyle">
 SHOPS
 </div>
+
+<br>
 
 <div class="row">
   <div class="column">
@@ -180,8 +184,12 @@ SHOPS
 
 
 
+<br>
+
 <div class="textstyle">
 DEATH SCREEN
 </div>
 
-<img src="/assets/images/projectamethyst/pa_deathscreen.png" alt="Minigame Device" class="center">
+<br>
+
+<img src="/assets/images/projectamethyst/pa_deathscreen.png" class="center">
