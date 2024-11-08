@@ -120,7 +120,7 @@ MAIN MENU
 </div>
 
 <video width="640" height="480" style="display: block; margin: 0 auto;" loop autoplay muted>
-  <source src="/assets/videos/projectamethyst/ng_menu.mp4" type="video/mp4">
+  <source src="/assets/videos/neonglancer/ng_menu.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -136,9 +136,9 @@ SHOPS
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/projectamethyst/ng_shopupgrade.png" style="width:100%">
+    <img src="/assets/images/neonglancer/ng_shopupgrade.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/projectamethyst/ng_shopconsumables.png" style="width:100%">
+    <img src="/assets/images/neonglancer/ng_shopconsumables.png" style="width:100%">
   </div>
 </div>
