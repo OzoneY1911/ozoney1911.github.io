@@ -47,6 +47,10 @@ permalink: /games/projectamethyst/
 
 
 
+<h3>Genre: 3D first-person shooter</h3>
+
+
+
 <div class="textstyle">
 ABOUT THIS PROJECT
 </div>

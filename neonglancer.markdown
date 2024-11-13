@@ -46,6 +46,8 @@ permalink: /games/neonglancer/
 </style>
 
 
+<h3>Genre: 3D top-down shooter</h3>
+
 
 <div class="textstyle">
 ABOUT THIS PROJECT
