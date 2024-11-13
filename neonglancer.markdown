@@ -52,29 +52,15 @@ ABOUT THIS PROJECT
 </div>
 
 <p style="padding-top: 10px; text-indent: 30px;">
-This game was made for university Video Game Design course by me and my groupmate. We were tasked to develop a video game on any topic with some in-game requirements, like "a game inside of a game", tutorial level, leaderboard, etc. I've been responsible for the most of game development aspects during this project from implementing gameplay features, UI, level design, to optimizing the in-game balance, AI, and post-processing. My groupmate has been handling the audio and delivering additional ideas, alongside with quality assurance.
+This game was developed during 2 weeks of my vacation. I was thinking about making something simple but still unique with just Unity basic primitive shapes, and without textures. The neon style idea came up pretty quickly and it was my first experience with post-processing in Unity Engine. First playable version had some minor bugs and featured only one shop. In the final version the bugs were fixed and it now includes an additional shop for buying first aid kit and armor. Also there is a feature of turning the camera 90 degrees left or right with Q/E buttons.
 </p>
 
 <p style="font-weight: bold; font-size: 20px;">Key Features</p>
 
 <ul>
-  <li>Unlimited waves of enemy spiders.</li>
-  <li>Player must defend an amethyst crystal.</li>
-  <li>Destructible and repairable fences.</li>
-  <li>3 shops, each featuring a differend kind of items and upgrades: Ruby Shop - weapon-related, Sapphire Shop - health-related, Emerald - movement and speed.</li>
-  <li>3 weapons: pistol, double-barreled shotgun, and assault rifle.</li>
-  <li>Web-based leaderboard, which allows to submit own highscore and watch it among other players.</li>
-  <li>Tutorial level, additionally featuring a minigame on an in-game portable console.</li>
+  <li>10 waves of enemies for player to survive.</li>
+  <li>Player can buy upgrades, first aid kit, and armor.</li>
 </ul>
-
-<p style="font-weight: bold; font-size: 20px;">Personal Achievements</p>
-
-<ul>
-  <li>Gained experience in 3D FPS animation, by making several own animations for pistol and double-barreled shotgun.</li>
-  <li>Developed destructible fences, the look of which depends on its HP. Can also be repaired, awarding the player with temporary safety and some additional currency.</li>
-</ul>
-
-
 
 <br>
 
