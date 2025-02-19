@@ -27,7 +27,7 @@ permalink: /games/
 
 
 <div class="textstyle">
-BEST GAMES
+FEATURED GAMES
 </div>
 
 
