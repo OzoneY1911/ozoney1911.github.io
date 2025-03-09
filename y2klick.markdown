@@ -33,14 +33,21 @@ permalink: /games/y2klick/
 }
 
 .textstyle {
-    background-color: #ddff6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ddff6e, #c4e94f);
     font-weight: bold;
-    border-radius: 20px;
-    width: auto;
-    height: 52px;
-    text-align: center;
-    padding: 5px;
     font-size: 28px;
+    color: #556b2f; /* Darker green for contrast */
+    border-radius: 15px;
+    padding: 10px 20px;
+    min-height: 52px;
+    text-align: center;
+    width: auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    font-family: 'Poppins', sans-serif;
 }
 
 </style>

@@ -7,14 +7,16 @@ permalink: /games/
 <style>
 
 .textstyle {
-    outline: 2px solid;
-    background-color: #ffb46e;
+    display: inline-block;
+    background: linear-gradient(135deg, #ffb46e, #ff7b3e);
     font-weight: bold;
-    border-radius: 20px;
-    width: max-content;
-    height: max-content;
-    padding: 10px;
     font-size: 20px;
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 12px 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    font-family: 'Poppins', sans-serif;
 }
 
 .linkstyle {

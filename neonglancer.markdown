@@ -33,14 +33,21 @@ permalink: /games/neonglancer/
 }
 
 .textstyle {
-    background-color: #adffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #adffff, #76eaff);
     font-weight: bold;
-    border-radius: 20px;
-    width: auto;
-    height: 52px;
-    text-align: center;
-    padding: 5px;
     font-size: 28px;
+    color: #005a6f;
+    border-radius: 15px;
+    padding: 10px 20px;
+    min-height: 52px;
+    text-align: center;
+    width: auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    font-family: 'Poppins', sans-serif;
 }
 
 </style>
