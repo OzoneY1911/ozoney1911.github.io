@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Games
+title: Game Projects
 permalink: /games/
 ---
 
 <style>
 
 .textstyle {
-    outline: 3px solid;
+    outline: 2px solid;
     background-color: #ffb46e;
     font-weight: bold;
     border-radius: 20px;
