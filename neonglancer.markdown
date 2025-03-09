@@ -54,7 +54,7 @@ ABOUT THIS PROJECT
 </div>
 
 <p style="padding-top: 10px; text-indent: 30px;">
-This game was developed during 2 weeks of my vacation. I was thinking about making something simple but still unique with just Unity basic primitive shapes, and without textures. The neon style idea came up pretty quickly and it was my first experience with post-processing in Unity Engine. First playable version had some minor bugs and featured only one shop. In the final version the bugs were fixed and it now includes an additional shop for buying first aid kit and armor. Also there is a feature of turning the camera 90 degrees left or right with Q/E buttons.
+This game was developed in 2 weeks in my spare time. I was thinking about making something simple but still unique with just Unity basic primitive shapes, and without textures. The neon style idea came up pretty quickly and it was my first experience with post-processing in Unity Engine. First playable version had some minor bugs and featured only one shop. In the final version the bugs were fixed and it now includes an additional shop for buying first aid kit and armor. Also there is a feature of turning the camera 90 degrees left or right with Q/E buttons.
 </p>
 
 <p style="font-weight: bold; font-size: 20px;">Key Features</p>

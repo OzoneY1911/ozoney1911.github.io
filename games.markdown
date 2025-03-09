@@ -20,6 +20,7 @@ permalink: /games/
 .linkstyle {
     padding-top: 10px;
     font-weight: bold;
+    font-size: 18px;
 }
 
 </style>
@@ -27,7 +28,7 @@ permalink: /games/
 
 
 <div class="textstyle">
-FEATURED GAMES
+PERSONAL AND UNIVERSITY PROJECTS
 </div>
 
 
@@ -42,5 +43,15 @@ FEATURED GAMES
             <a href="https://ozoney1911.github.io/games/neonglancer/">Neon Glancer</a>
         </div>
     </li>
-<ul>
+    <li>
+        <div class="linkstyle">
+            <a href="https://ozoney1911.github.io/games/patience/">Patience</a>
+        </div>
+    </li>
 
+</ul>
+
+
+<div class="textstyle">
+GAME JAM PROJECTS
+</div>
