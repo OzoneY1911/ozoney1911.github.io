@@ -52,6 +52,8 @@ PERSONAL AND UNIVERSITY PROJECTS
 </ul>
 
 
+<br>
+
 <div class="textstyle">
 GAME JAM PROJECTS
 </div>
