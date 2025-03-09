@@ -48,12 +48,45 @@ PERSONAL AND UNIVERSITY PROJECTS
             <a href="https://ozoney1911.github.io/games/patience/">Patience</a>
         </div>
     </li>
-
 </ul>
 
 
 <br>
 
 <div class="textstyle">
-GAME JAM PROJECTS
+FEATURED GAME JAM PROJECTS
 </div>
+
+<ul>
+    <li>
+        <div class="linkstyle">
+            <a href="https://ozoney1911.github.io/games/y2klick/">Y2KLICK</a>
+        </div>
+    </li>
+</ul>
+
+<br>
+
+<div class="textstyle">
+OTHER GAME JAM PROJECTS
+</div>
+
+<ul>
+    <li>
+        <div class="linkstyle">
+            <a href="https://ozoney.itch.io/punk-granny">Punk Granny - a 2D rhythm game.</a>
+        </div>
+    </li>
+    <li>
+        <div class="linkstyle">
+            <a href="https://ozoney.itch.io/call-of-fern">Call of Fern - small 3D adventure.</a>
+        </div>
+    </li>
+    <li>
+        <div class="linkstyle">
+            <a href="https://ozoney.itch.io/death-of-the-knight">Death of the Knight - made solo during 24-hour on-site jam.</a>
+        </div>
+    </li>
+
+</ul>
+
