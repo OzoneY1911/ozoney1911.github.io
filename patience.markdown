@@ -110,12 +110,16 @@ SELECTED CARD COLOR SELECTION
   <div class="column">
     <img src="/assets/images/patience/patience_colorpickershot.png" style="width:100%">
   </div>
-      <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
+</div>
+
+<div class="row">
+  <div class="column">
+    <video width="600" height="450" style="display: block; margin: 0 auto;" loop autoplay muted>
           <source src="/assets/videos/patience/patience_colorpicker.mp4" type="video/mp4">
           Your browser does not support the video tag.
       </video>
+  </div>
 </div>
-
 
 <br>
 
